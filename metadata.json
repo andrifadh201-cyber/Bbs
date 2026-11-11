@@ -1,0 +1,6 @@
+{
+  "name": "DRIVER BBS - Manajemen Rute & Navigasi Driver",
+  "description": "Aplikasi logistik pengantaran driver dengan manajemen order, edit rute pengiriman, navigasi multi-stop all-rute, integrasi Google Maps real-time, dan rekap bukti foto.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
